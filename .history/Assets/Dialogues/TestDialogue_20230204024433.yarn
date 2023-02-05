@@ -1,0 +1,11 @@
+﻿title: Start
+tags:
+---
+TrappedUser: Hello?
+TrappedUser: Is anyone there?
+-> Yes, I'm here.
+    RootUser: Yes, I'm here.
+    TrappedUser: I'm trapped here. You must help me.
+-> Who are you?
+RootUser: Who are you?
+===
